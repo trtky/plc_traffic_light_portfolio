@@ -1,4 +1,4 @@
-# 🚦SPS - Traffic Light 
+# 🚦PLC - Traffic Light 
 
 - In this project a traffic light controller in CODESYS is implemented. 
 
